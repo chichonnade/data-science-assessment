@@ -5,5 +5,9 @@ SQLAlchemy
 psycopg2-binary
 GDAL
 ipykernel
-#mermaid
-geoalchemy2
+
+# Extra libraries
+requests
+matplotlib
+scikit-learn
+seaborn
